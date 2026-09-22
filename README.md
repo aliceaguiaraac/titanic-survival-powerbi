@@ -12,12 +12,12 @@ The goal was to build an executive Power BI experience that goes beyond static r
 
 Explore the interactive Power BI report:
 
-<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiODY3NGY4MDEtNjgzYS00Y2I1LWE1NDAtOWJiYTJhMzdhMmJkIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Click here to open the interactive Power BI report</a></p>
+<p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiMmEyMzliZjktOWVmNi00MGQxLWIwNjUtZmQ5NzAzNGQxMjk5IiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9" rel="nofollow">Click here to open the interactive Power BI report</a></p>
 
 
 ## Preview
 
-![Titanic Power BI Executive Overview](images/overview.png)
+![Titanic Power BI Executive Overview](images/titanicexecutiveview.png)
 
 
 
