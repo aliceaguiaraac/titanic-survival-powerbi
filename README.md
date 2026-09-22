@@ -17,7 +17,7 @@ Explore the interactive Power BI report:
 
 ## Preview
 
-![Titanic Power BI Executive Overview](images/titanicexecutiveview.png)
+![Titanic Power BI Executive Overview](titanicexecutiveview.png)
 
 
 
