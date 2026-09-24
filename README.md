@@ -2,7 +2,7 @@
 
 **From data preparation to executive insight. An end-to-end Power BI case study.**
 
-This project explores passenger profiles, observed survival patterns, data quality and interactive segmentation using the Titanic dataset.
+This project explores passenger profiles, observed survival patterns, data quality and interactive segmentation using the <a href="https://www.kaggle.com/datasets/yasserh/titanic-dataset" rel="nofollow">Titanic dataset</a>
 
 The goal was to build an executive Power BI experience that goes beyond static reporting by combining data preparation, semantic modelling, dynamic analysis and interactive decision support.
 
